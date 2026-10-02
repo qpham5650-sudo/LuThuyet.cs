@@ -1,1 +1,1 @@
-# LuThuyet.cs
+# LuThuyet
